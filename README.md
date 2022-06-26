@@ -72,5 +72,21 @@ To prevent this situation we maintain a counter array with most output occurrenc
 
 4.Emergency vehicle detection like ambulance, fire brigade, police van, etc.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## INSTALLATION AND SETUP
+### FILES
+1.ref.py -- this python progarm made with the modules of opencv especially yolov3 is used to detect the vehicles
+
+2.simulation.py --this python progaram is used to identify the configurations of the traffic signals based on the current traffic situation in 
+a particular area
+
+3.surveillance.m4v,rush.mp4,road.mp4 -- these are the video files that has been used as test cases for ref.py file
+Note:In real life situation video is not being uploaded to the progarm,instead we are using the live feed from the roads.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
