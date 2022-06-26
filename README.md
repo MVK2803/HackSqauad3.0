@@ -1,5 +1,5 @@
 # HackSqauad3.0
-## Traffic management system using python and open CV
+## Adaptive Traffic Management System using Python and Open CV
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## INTRODUCTION 
 
